@@ -82,8 +82,8 @@ class ViewController: UIViewController,UIPickerViewDataSource,UIPickerViewDelega
     /***************************************************************/
     
     func updateBitcoinData(json : JSON) {
-        if let askPrice = json["ask"].double{
-            bitcoinPriceLabel.text = "\(askPrice)"
+        if let lastPrice = json["last"].double{
+            bitcoinPriceLabel.text = "\(lastPrice)"
         }
         else{
             bitcoinPriceLabel.text = "Price Unavailable"
