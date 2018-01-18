@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/212361198/SourceCode/Home/Mobile/AndroidAndIOSApps/BitcoinTickerApp/Android/BitcoinTicker/app/libs/httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/212361198/SourceCode/Home/Mobile/AndroidAndIOSApps/BitcoinTickerApp/Android/BitcoinTicker/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_cde792dc2fce45470015a336b1bb71895e16412f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/212361198/SourceCode/Home/Mobile/AndroidAndIOSApps/BitcoinTickerApp/Android/BitcoinTicker/app/libs/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/212361198/SourceCode/Home/Mobile/AndroidAndIOSApps/BitcoinTickerApp/Android/BitcoinTicker/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_cee83b8fb5a36019c04399085d76ef5da3d6404e.jar" />
+    </item>
+
+</items>
