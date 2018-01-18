@@ -22,6 +22,6 @@
 * [IOS](https://github.com/fouliex/AndroidAndIOSApps/tree/master/Clima/IOS/Clima)
 ![Clima Image](./misc/images/Clima.png)
 6. **Bitcoin Ticker**
-* [Android](https://github.com/fouliex/AndroidAndIOSApps/tree/master/BitcoinTicker/Android/BitcoinTicker)
-* [IOS](https://github.com/fouliex/AndroidAndIOSApps/tree/master/Clima/BitcoinTicker/BitcoinTicker)
+* [Android](https://github.com/fouliex/AndroidAndIOSApps/tree/master/BitcoinTickerApp/Android/BitcoinTicker)
+* [IOS](https://github.com/fouliex/AndroidAndIOSApps/tree/master/BitcoinTickerApp/IOS/BitcoinTicker)
 ![Bitcoin Ticket Image](./misc/images/BitcoinTicker.png)
